@@ -10,12 +10,12 @@
 </head>
 <body>
     <div id="one">
-        <h3>Home</h3>
-        <h3>Lipstick</h3>
-        <h3>Face Products</h3>
-        <h3>Eye Shadows</h3>
-        <h3>Liners</h3>
-        <h3>All Products</h3>
+        <h5>Home</h5>
+        <h5>Lipstick</h5>
+        <h5>Face Products</h5>
+        <h5>Eye Shadows</h5>
+        <h5>Liners</h5>
+        <h5>All Products</h5>
         <i class="ri-search-line"></i>
         <i class="ri-menu-line"></i>
     </div>
